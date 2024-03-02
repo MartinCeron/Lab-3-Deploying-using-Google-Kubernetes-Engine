@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: binarycalculator
-        image: northamerica-northeast2-docker.pkg.dev/projectagain-415820/sofe3980u/binarycalculator:latest
+        image: northamerica-northeast2-docker.pkg.dev/decoded-tesla-416023/sofe3980u:latest
         ports:
         - containerPort: 8080
 
